@@ -1,4 +1,3 @@
-# Integration-C-and-Python
 # Python and C integration for working on programming language concepts at the Federal University of Pelotas
 
 #Fractal Mandelbrot Application 
