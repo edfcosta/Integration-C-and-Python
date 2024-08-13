@@ -1,6 +1,6 @@
 # Python and C integration for working on programming language concepts at the Federal University of Pelotas
 
-Fractal Mandelbrot Application 
+#Fractal Mandelbrot Application 
 
 ## Overview
 
@@ -32,7 +32,5 @@ You can install the Python dependencies using:
 ## For Build This Project
 
 cd <path>/mandelbrot/
-
 make 
-
 make run
