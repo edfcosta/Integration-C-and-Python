@@ -1,6 +1,6 @@
 # Python and C integration for working on programming language concepts at the Federal University of Pelotas
 
-#Fractal Mandelbrot Application 
+Fractal Mandelbrot Application 
 
 ## Overview
 
