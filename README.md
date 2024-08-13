@@ -33,5 +33,7 @@ You can install the Python dependencies using:
 ## For Build This Project
 
 cd <path>/mandelbrot/
+
 make 
+
 make run
